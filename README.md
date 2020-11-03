@@ -56,7 +56,7 @@ https://github.com/Yuren293/Yandex-Practikum/tree/main/game_success_analysis
 ---|---|---
 [Определение выгодного тарифа для телеком компании](https://github.com/Yuren293/Yandex-Practikum/tree/main/1.%20prediction_of%20customer_attrition_of_telecom(F))|на основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа|pandas, matplotlib, numpy, scipy, math, seaborn, sklearn
  [Определение возраста по фото](https://github.com/Yuren293/Yandex-Practikum/tree/main/2.%20determining_the_age_of_people_by_photo)|построить модель, которая по фотографии определит приблизительный возраст человека. Есть набор фотографий людей с указанием возраста|pandas, keras, matplotlib, seaborn
- []()||
+ [Классификация комментариев](https://github.com/Yuren293/Yandex-Practikum/tree/main/3.%20%D1%81lassification_of_comments)|ускорить модерацию комментариев в сообществе, автоматизировав оценку их токсичности, обучить модель классифицировать комментарии на позитивные и негативные|pandas, sklearn, numpy, NLTK, LightGBM, Catboost 
  []()||
  []()||
  []()||
