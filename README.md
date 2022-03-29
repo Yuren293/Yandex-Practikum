@@ -1,7 +1,7 @@
 # Yandex-Practikum
 
 # Project Navigation
-In this file you can find all the projects that I have done  
+In this file you can find all the projects that I have done studying at Yandex-Practikum 
 
 Folder name / Project |Project objective| Python libraries used
 ---|---|---
