@@ -5,7 +5,7 @@ In this file you can find all the projects that I have done
 
 Folder name / Project |Project objective| Python libraries used
 ---|---|---
-[prediction_of customer_attrition_of_telecom(F)](https://github.com/Yuren293/Yandex-Practikum/tree/main/1.%20prediction_of%20customer_attrition_of_telecom(F))|Based on the data of the mobile operator's customers, analyze the behavior of customers and search for the optimal tariff|pandas, matplotlib, numpy, scipy, math, seaborn, sklearn
+[prediction_of customer_attrition_of_telecom](https://github.com/Yuren293/Yandex-Practikum/tree/main/1.%20prediction_of%20customer_attrition_of_telecom(F))|Based on the data of the mobile operator's customers, analyze the behavior of customers and search for the optimal tariff|pandas, matplotlib, numpy, scipy, math, seaborn, sklearn
  [determining_the_age_of_people_by_photo](https://github.com/Yuren293/Yandex-Practikum/tree/main/2.%20determining_the_age_of_people_by_photo)|Build a model that can determine the approximate age of a person from a photo. There is a set of photos of people with age indication|pandas, keras, matplotlib, seaborn
  [сlassification_of_comments](https://github.com/Yuren293/Yandex-Practikum/tree/main/3.%20%D1%81lassification_of_comments)|Speed up the moderation of comments in the community by automating the assessment of their toxicity, train the model to classify comments into positive and negative|pandas, sklearn, numpy, NLTK, LightGBM, Catboost 
  [time_series_analysis_&_forecast_of_taxi_orders](https://github.com/Yuren293/Yandex-Practikum/tree/main/5.%20time_series_analysis_%26_forecast_of_taxi_orders)|Train a model to predict the number of taxi orders for the next hour|pandas, sklearn, numpy, LightGMB, matplotlib, statsmodels, catboost
