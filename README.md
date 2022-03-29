@@ -1,9 +1,9 @@
 # Yandex-Practikum
 
-# Навигация по проектам
-В этом файле можно найти все учебные проекты, проделанные мною в рамках практикума 
+# Project Navigation
+In this file you can find all the projects that I have done  
 
-Название папки / проекта |Задача проекта| Используемые библиотеки Python
+Folder nameи / Project |Задача проекта| Используемые библиотеки Python
 ---|---|---
 [Определение выгодного тарифа для телеком компании](https://github.com/Yuren293/Yandex-Practikum/tree/main/1.%20prediction_of%20customer_attrition_of_telecom(F))|На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа|pandas, matplotlib, numpy, scipy, math, seaborn, sklearn
  [Определение возраста по фото](https://github.com/Yuren293/Yandex-Practikum/tree/main/2.%20determining_the_age_of_people_by_photo)|Построить модель, которая по фотографии определит приблизительный возраст человека. Есть набор фотографий людей с указанием возраста|pandas, keras, matplotlib, seaborn
