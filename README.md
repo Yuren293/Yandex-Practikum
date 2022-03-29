@@ -3,10 +3,10 @@
 # Project Navigation
 In this file you can find all the projects that I have done  
 
-Folder nameи / Project |Задача проекта| Используемые библиотеки Python
+Folder name / Project |Project objective| Python libraries used
 ---|---|---
-[Определение выгодного тарифа для телеком компании](https://github.com/Yuren293/Yandex-Practikum/tree/main/1.%20prediction_of%20customer_attrition_of_telecom(F))|На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа|pandas, matplotlib, numpy, scipy, math, seaborn, sklearn
- [Определение возраста по фото](https://github.com/Yuren293/Yandex-Practikum/tree/main/2.%20determining_the_age_of_people_by_photo)|Построить модель, которая по фотографии определит приблизительный возраст человека. Есть набор фотографий людей с указанием возраста|pandas, keras, matplotlib, seaborn
+[Determining a favorable tariff for a telecom company](https://github.com/Yuren293/Yandex-Practikum/tree/main/1.%20prediction_of%20customer_attrition_of_telecom(F))|Based on the data of the mobile operator's customers, analyze the behavior of customers and search for the optimal tariff|pandas, matplotlib, numpy, scipy, math, seaborn, sklearn
+ [Age determination by photo](https://github.com/Yuren293/Yandex-Practikum/tree/main/2.%20determining_the_age_of_people_by_photo)|Build a model that can determine the approximate age of a person from a photo. There is a set of photos of people with age indication|pandas, keras, matplotlib, seaborn
  [Классификация комментариев](https://github.com/Yuren293/Yandex-Practikum/tree/main/3.%20%D1%81lassification_of_comments)|Ускорить модерацию комментариев в сообществе, автоматизировав оценку их токсичности, обучить модель классифицировать комментарии на позитивные и негативные|pandas, sklearn, numpy, NLTK, LightGBM, Catboost 
  [Прогнозирование заказов такси](https://github.com/Yuren293/Yandex-Practikum/tree/main/5.%20time_series_analysis_%26_forecast_of_taxi_orders)|Обучить модель для предсказания количества заказов такси на следующий час|pandas, sklearn, numpy, LightGMB, matplotlib, statsmodels, catboost
  [Предсказание цены автомобиля](https://github.com/Yuren293/Yandex-Practikum/tree/main/4.%20prediction_of_car_prices)|Обучить модель для определения рыночной стоимости автомобиля|pandas, sklearn, numpy, LightGBM, Catboost
